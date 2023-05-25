@@ -1,0 +1,30 @@
+{
+  "name": "desafio-nodejs",
+  "version": "1.0.0",
+  "description": "\"description\": \"Um sistema de lista de compras desenvolvido em Node.js e MySQL, permitindo que os usuários adicionem, removam, modifiquem e visualizem itens da lista.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laraFRamos/DesafioCapNodeJS.git"
+  },
+  "keywords": [
+    "lista",
+    "de",
+    "compras"
+  ],
+  "author": "lara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laraFRamos/DesafioCapNodeJS/issues"
+  },
+  "homepage": "https://github.com/laraFRamos/DesafioCapNodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "knex": "^2.4.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.3.2"
+  }
+}
